@@ -42,8 +42,8 @@ HealthyEats is a simple recipe manager for managing user-created recipes. The us
 
   - **User Interface Wireframes**
   <p align="center">
-      <img src="images/UI-macro-counter.jpeg" alt="macrocounter" width="45%"/>
-      <img src="images/UI-profile.jpeg" alt="profile" width="45%"/>
+      <img src="images/HealthyEats Recipes UI Wireframe.png" alt="recipes" width="45%"/>
+      <img src="images/HealthyEats View Recipe UI Wireframe.png" alt="view recipe" width="45%"/>
   </p>
   
   - **Entity-Relationship Diagram**
