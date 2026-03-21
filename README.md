@@ -32,7 +32,6 @@ HealthyEats is a simple recipe manager for managing user-created recipes. The us
 
 <h3>🧰 Architecture & Design </h3>
 
-- **UML class diagrams (PDF):** [View the UML Diagrams for FlexGram](documents/FlexGram-UML-Diagram.pdf)
 - **Diagrams include:**
   - **Sitemap**
   <p align="center">
