@@ -47,18 +47,18 @@ HealthyEats is a simple recipe manager for managing user-created recipes. The us
   
   - **Entity-Relationship Diagram**
   <p align="center">
-    <img src="images/HE-ER Diagram.jpeg" alt="ER Diagram" width="75%"/>
+    <img src="images/HE-ER Diagram.png" alt="ER Diagram" width="75%"/>
   </p>
 
 ---
 
 <h3>🎓 Final Product</h3>
   <p align="center">
-      <img src="images/HE-Home.jpeg" alt="home" width="45%"/>
-      <img src="images/HE-Recipes.jpeg" alt="recipes" width="45%"/>
-      <img src="images/HE-View Recipe.jpeg" alt="View Recipe" width="45%"/>
-      <img src="images/HE-Edit Recipe.jpeg" alt="Edit Recipe" width="45%"/>
-      <img src="images/HE-Add Recipe.jpeg" alt="Add Recipe" width="45%"/>
+      <img src="images/HE-Home.png" alt="home" width="45%"/>
+      <img src="images/HE-Recipes.png" alt="recipes" width="45%"/>
+      <img src="images/HE-View Recipe.png" alt="View Recipe" width="45%"/>
+      <img src="images/HE-Edit Recipe.png" alt="Edit Recipe" width="45%"/>
+      <img src="images/HE-Add Recipe.png" alt="Add Recipe" width="45%"/>
   </p>
 
 
