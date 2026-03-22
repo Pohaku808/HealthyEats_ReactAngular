@@ -11,9 +11,10 @@ HealthyEats is a simple recipe manager for managing user-created recipes. The us
 <h3>✅ Functional Requirements</h3>
 
 - Home Page
-- View recipe
-- Create recipe
-- Edit Recipe
+- Recipes Page
+- View recipe Page
+- Create recipe Page
+- Edit Recipe Page
 - Delete Recipe
 - Both apps connect to a backend API to store and handle recipe data
 
